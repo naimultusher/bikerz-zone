@@ -1,0 +1,129 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+/* Primary CSS */
+
+body {
+    font-family: 'Poppins', sans-serif!important;
+}
+
+/* Header Styles */
+
+.nav-btn {
+    background: #E76F51;
+    border-radius: 5px;
+    border: none;
+    padding: 17px 52px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    font-size: 35px!important;
+    color: #000000;
+}
+
+.carousel {
+    background: rgba(231, 111, 81, 0.1);
+    border-radius: 5px;
+}
+
+.slider-title {
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.slider-btn {
+    background: #E76F51;
+    border-radius: 5px;
+    border: none;
+    padding: 17px 52px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.carousel-control-prev {
+    left: -65px!important;
+}
+
+.carousel-control-next {
+    right: -65px!important;
+}
+
+/* Features Section Styles */
+
+.features-bike {
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+
+.features-bike p {
+    font-weight: 600;
+    font-size: 14px;
+    color: #E76F51;
+}
+
+.features-bike hr {
+    color: #E76F51;
+    width: 68px;
+}
+
+.hot-bikes {
+    margin-top: 46px!important;
+}
+
+/* Latest News Styles */
+
+.happy-clients {
+    margin-bottom: 130px;
+}
+
+.news {
+    margin-bottom: 130px;
+}
+
+.news-btn {
+    background: #E76F51!important;;
+    border-radius: 5px!important;;
+    border: none;
+    padding: 15px!important;;
+    font-weight: 500!important;;
+    font-size: 18px!important;;
+    color: #FFFFFF!important;
+}
+
+.blog-grid {
+    margin-top: 50px!important;
+}
+
+/* Happy Clients Styles */
+
+.orange {
+    color: #E76F51;
+}
+
+.happy-clients .card-body img {
+    height: 150px;
+    width: 150px;
+}
+
+.rating {
+    color: #E77C40;
+}
+
+/* FAQ Styles */
+
+.faq {
+    margin-bottom: 130px;
+}
+
+/* Footer Styles */
+
+footer {
+    background-color: #000000;
+    padding-top: 56px;
+    padding-bottom: 56px;
+}
